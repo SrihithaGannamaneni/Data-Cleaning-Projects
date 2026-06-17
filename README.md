@@ -1,6 +1,29 @@
-# Data Cleaning Projects
+# Data Cleaning and EDA Projects
 
-This repository contains data cleaning and preprocessing projects using Python.
+This repository contains practical Data Analysis, Data Cleaning, and Exploratory Data Analysis (EDA) projects using Python.
+
+## Projects
+
+### 1. Housing Data Cleaning and Preprocessing
+- Missing value analysis
+- Median and mode imputation
+- Column removal based on null percentage
+- Duplicate detection
+- Data quality improvement
+
+### 2. Netflix Data Analysis and EDA
+- Data exploration and visualization
+- Movie and TV show analysis
+- Country-wise content analysis
+- Director and genre analysis
+- Release trends analysis
+
+### 3. Data Preprocessing Techniques
+- Missing value treatment
+- Duplicate handling
+- Data type conversion
+- Outlier detection
+- Feature preparation
 
 ## Technologies Used
 - Python
@@ -8,21 +31,6 @@ This repository contains data cleaning and preprocessing projects using Python.
 - NumPy
 - Matplotlib
 - Seaborn
-
-## Projects
-
-### 1. Netflix Data Cleaning Project
-- Missing value handling
-- Duplicate removal
-- Data type conversion
-- Dataset preprocessing
-
-### 2. Data Preprocessing Techniques
-- Missing value treatment
-- Duplicate handling
-- Data type conversion
-- Outlier detection using IQR
-- Data quality improvement
 
 ## Author
 Srihitha Gannamaneni
